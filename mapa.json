@@ -1,0 +1,254 @@
+{
+    "mapwidth": 2398,
+    "mapheight": 1407,
+    "levels": [
+        {
+            "id": "mapa",
+            "title": "Mapa",
+            "map": "img\/mapa-grande.png",
+            "minimap": "img\/mapapeque.jpg",
+            "locations": [
+                {
+                    "id": "1",
+                    "title": "1. Entrada Vehicular",
+                    "link": "",
+                    "description": "<img src='img/entrada.png' width='200px'><br> <b>Horario: 7: am a 10 pm<b><br><br>",
+                    "pin": "pin",
+                    "x": "0.4872",
+                    "y": "0.8882",
+                    "zoom": "2"
+                },
+                {
+                    "id": "2",
+                    "title": "2. Entrada Peatonal",
+                    "link": "",
+                    "description": "<img src='img/entrada-peatonal.jpg' width='200px'> <br><b>Horario:</b>  7: am a 10 pm<br><br><b>Parada de buses UDES <br></b> Valor pasaje: 2.000",
+                    "pin": "pin",
+                    "x": "0.3030",
+                    "y": "0.6341",
+                    "zoom": "2"
+                },
+                {
+                    "id": "3",
+                    "title": "3. Bienestar institucional",
+                    "link": "https://udes.edu.co/bienestar-institucional",
+                    "description": "<img src='img/bienestar.jpg' width='200px'> <br><br><b> PISO 1 </b> <br> - Asesoría en psicología<br> - Baño<br> - Bodega<br> - Capilla<br> - Coordinación de Salud, Coordinación de Desarrollo Humano<br> - Dirección bienestar<br> - Filarmónica<br> - Fisioterapia y Coordinación Cultural<br> - Oficinas de Coordinación<br> - Salón Cultural<br> - Salón de Tamboras<br> - Salón Musical<br><br><b> PISO 2</b><br> - Bodega Teatro<br> - Laboratorio de Juego Terapia Ocupacional<br> - Salón de Expresión Oral<br> - Udes Verde<br><br><b> Contacto </b><br><b>Nombre Completo:</b> Ana Francisca Martínez Quintero<br> <b>Cargo:</b> Directora de Bienestar Institucional<br>Teléfono: (+57) (607) 6516500<br>Correo Electrónico: direccion.bienestar@udes.edu.co <br> Extensión 1570",
+                    "pin": "pin",
+                    "x": "0.3537",
+                    "y": "0.7152",
+                    "zoom": "5"
+                },
+                {
+                    "id": "4",
+                    "title": "4. Cafetería principal",
+                    "link": "https://bucaramanga.udes.edu.co/comunicaciones/noticias/las-cafeterias-udes-mayor-comodidad-y-mas-servicios ",
+                    "description": "<img src='img/cafeteria.png' width='250px'><br> Primera cafetería inaugurada en la Universidad. En el segundo piso, cajero automático y área para ensayos de grupos artísticos y mesas de tenis de mesa.",
+                    "pin": "pin",
+                    "x": "0.3918",
+                    "y": "0.6294",
+                    "zoom": "5"
+                },
+                {
+                    "id": "5",
+                    "title": "5. Bloque Música - 6",
+                    "link": "https://bucaramanga.udes.edu.co/universidad/facultades/facultad-de-ingenierias-y-tecnologias",
+                    "description": "<img src='img/muisca.png' width='250px'><br> <b>PISO 1</b><br> - Bodega Pavimentos y Concreto<br> - Centro de Estudio Ingeniería Ambiental<br> - Lab de Suelos<br> - Lab Hidráulica y Mecánica de Fluidos<br> - Lab Pavimentos y Concreto<br><br> <b>PISO 2</b><br> - Baños<br> - Lab Ingeniería Ambiental Lia<br> - Lab procesos Unitarios<br> - Laboratorios de Investigación de Aguas<br> - Oficina de Coordinación de Laboratorios<br> - Sala de Profesores Ingeniera Ambiental<br><br><b> PISO 3</b><br> - Baños<br> - Centro de Estudios Ingeniera Civil<br> - Coordinación de Laboratorio 2<br> - Dirección de Geología y Petroquímica<br> - Director Programa Ingeniería Civil<br> - Facultad de Ingenieras<br> - Sala de Profesores Ingeniera Civil<br><br><b> PISO 4</b><br> - Lab Microscopia Óptica y Geología<br> - Aula<br><br><b> Contacto</b><br> VIVIANA PRADA PÉREZ<br>Decana Facultad de Ingenierías y Tecnologías<br>decanaturadeingenierias@udes.edu.co ",
+                    "pin": "pin",
+                    "x": "0.3190",
+                    "y": "0.5290",
+                    "zoom": "5"
+                },
+                {
+                    "id": "6",
+                    "title": "6. Bloque Carare - B",
+                    "link": "https://udes.edu.co/museo",
+                    "description": "<img src='img/carare.png' width='250px'><br> <b>PISO 1</b><br> - Aseo<br> - Baño<br> - Bodega 1 y 2<br> - Parqueadero<br><br><b> PISO 2</b><br> - Bodega 3<br> - Centro de monitoreo ambiental<br> - Parqueadero<br><br><b> PISO 3, 4 y 5</b><br> - Bodegas<br> - Parqueaderos<br><br><b> PISO 6</b><br> - Baños<br> - Sala de Profesores<br><br><b> SÓTANO 1</b><br> - Bodegas<br> - Lab Antropología<br> - Museo Arqueológico<br> - Parqueadero<br><br><b> SÓTANO 2</b><br> - Bodegas<br> - Parqueadero Motos<br> - Residuos Peligrosos Sólidos y Líquidos<br>",
+                    "pin": "pin",
+                    "x": "0.3380",
+                    "y": "0.4447",
+                    "zoom": "3"
+                },
+                {
+                    "id": "7",
+                    "title": "7. Carera parqueaderos ",
+                    
+                    "description": "<img src='img/parqueadero.png' width='250px'><br> 7 Pisos de parqueadero",
+                    "pin": "pin",
+                    "x": "0.3003",
+                    "y": "0.4134",
+                    "zoom": "3"
+                },
+                {
+                    "id": "8",
+                    "title": "8. El pensador",
+                    "link": "https://udes.edu.co/images/micrositios/museo/brochures/sala-historica-01.pdf ",
+                    "description": "<img src='img/pensador.jpg' width='250px'><br> <b>Año en que llega a la UDES: 2013.</b><br><b>Autor de la escultura Original: Aguste-René Rodin (París 1840 - Meudon 1917).</b> <br><br> Esta réplica de la obra monumental de Rodin, es una invitación permanente a los estudiantes de la Udes: “Que piensen no solo con su cerebro sino con cada parte de su cuerpo”... “A que no sean solo soñadores sino creadores.”",
+                    "pin": "pin",
+                    "x": "0.3567",
+                    "y": "0.4046",
+                    "zoom": "3"
+                },
+                {
+                    "id": "9",
+                    "title": "9. Bloque Chibcha - 4",
+                    "link": "https://udes.edu.co/centro-de-idiomas ",
+                    "description": "<img src='img/chibcha.jpg' width='250px'><br> <b>PISO 1</b><br> - Baños<br> - Ciencias de la computación<br> - Software<br> - Coordinación de Laboratorios<br> - Dirección de Comunicaciones<br> - Doctorados Recursos Energéticos<br> - Lab Sala de Fotografía, mercadeo y publicidad<br> - Prácticas informativas de ingles<br> - Sala 7 y 8<br> - Sala 9 Mac<br><br> <b> PISO 2</b><br> - Atención al estudiante<br>  - Dirección de planeación<br> - Ingeniera Industrial<br> - Lab de tecnología Avanzada en Logística y Simulación<br> - Lab Financiero. Punto Bvc<br> - Mercadeo Institucional<br> - Sala de profesores ciencias básicas<br><br> <b>PISO 3</b><br> - Baños<br> - Aulas 4-302 a 4-310<br><br> <b>PISO 4</b><br> - Aulas 4-401 a 4-310<br> - Consultorio Contable<br> - Éxito Estudiantil y Mejor Saber<br><br> <b> PISO 5 </b><br> - Aulas 4-502 a 4-509<br> - Baños<br> - Depósito Utensilios de Aseo<br>  - Laboratorio de Habla y Voz<br>  - Sala de Audiencias Carlos Gaviria Díaz<br><br> <b>PISO 6</b><br>- Berliz<br> - Centro de Idiomas<br> - Depósito<br> - Dirección Programa Mercadeo y Publicidad<br>  - Ingles Berliz 4-601 a 4-609<br> - Lab Múltiples de Prácticas y laboratorios de Modalidades Terapéuticas<br> - Labotario Férulas<br> - Oficina Libre<br><br> <b> SÓTANO I </b><br> - Bodega de Laboratorio de Docencia<br> - Lab Agroecología<br>  - Lab Área de Lavado de Material<br>  - Lab Bacteriología<br>  - Lab Bioquímica de Microorganismos<br>  - Lab Cepario de Bacteriología<br> - Lab Cepario de Micrologia (Hongos)<br> - Lab Correlación Clínica Práctica Intramural<br>  - Lab Hematología<br> - Lab Investigaciones Biomédicas y Biotecnología Bucs<br> - Libb 2<br> - Lab Parasitología<br>  - Lab Preparaciones de Medios de Cultivo<br>  - Libb Cbudes Tablero de Distribución Eléctrica<br> - Taller Eléctrico<br><br> <b> ",
+                    "pin": "pin",
+                    "x": "0.3683",
+                    "y": "0.2858",
+                    "zoom": "3"
+                },
+                {
+                    "id": "10",
+                    "title": "10. Bloque Arhuaco - 3",
+                    "link": "",
+                    "description": "<img src='img/arhuaco.png' width='250px'><br> <b>PISO 1</b><br> - Anfiteatro<br> - Dirección de Morfología<br> - Dto Morfología Humana<br> - Lab Ciber Anatomía<br> - Lab Fisiología<br> - Lab Microscopia<br> - Lab Neurociencias<br> - Laboratorio de Simulación Cínica y Atención Primaria de Enfermería<br><br> <b>PISO 2</b><br> - Audiología - Aula Bioinformática<br>  - Baños<br> - Centro de Comunicación e Investigación de Mercadeo y Publicidad<br>  - Dirección Programa de Psicología<br> - Facultad de Ciencias de la Educación<br>  - Facultad de Ciencias Sociales, Económicas, Administrativas y Contables<br> - Facultad y Centro de Formación en Tecnologías<br>  - Lab Biología Molecular y Biotecnología Buc<br> - Biomol<br> - Oficina de Convenios y Prácticas<br> - Vicerrectoría de Investigación<br><br> <b> PISO 3 </b><br> - Departamento de Audiovisuales<br>  - Dirección de Maestría<br>  - Sala Invertida 1 - 9 Audiovisuales<br><br> <b> PISO 4</b><br> - Auditorio Mayor<br> - Auditorio Menor<br>  - Baños<br> - Facultad de Ciencias Políticas<br> - Sala de Concejo<br>",
+                    "pin": "pin",
+                    "x": "0.5006",
+                    "y": "0.3616",
+                    "zoom": "3"
+                },
+                {
+                    "id": "11",
+                    "title": "11. Biblioteca - 21",
+                    "link": "https://udes.edu.co/buscar/eventos/portal-acceso-remoto ",
+                    "description": "<img src='img/bibloteca.jpg' width='250px'><br> Al servicio de la comunidad universitaria, cuyo objetivo principal es transformar la información en una herramienta básica para la investigación y la docencia, dentro del proceso educativo. La Biblioteca Poncio Suárez Sánchez cuenta con:<br><br> - Sala de Recursos Web<br> - Sala de Estudio General<br> - Sala de Estudio Individual<br> - Colección General<br> - Sala de Exposiciones Agataes<br> ",
+                    "pin": "pin",
+                    "x": "0.4672",
+                    "y": "0.3869",
+                    "zoom": "3"
+                },
+                {
+                    "id": "12",
+                    "title": "12. Bloque Motilón - 2",
+                    "link": "https://udes.edu.co/investigacion/recursos/laboratorios/laboratorios-de-investigacion",
+                    "description": "<img src='img/motilon.png' width='250px'><br> <b>PISO 1</b><br> - Baños<br> - Cuarto de Aseo<br>  - Lab Biología<br> - Lab Bioquímica Básica<br> - Lab Química<br> - Lab Tejidos Vegetales (Cultivos In Vitro)<br> - Lab de Física<br> - Laboratorio de Almacenamiento y Preparación de Insumos Químicos<br><br> <b> PISO 2</b><br> - Autorregulación<br> - Desarrollo Profesoral<br>  - Dirección Programa Derecho<br>  - Especializaciones<br>  - Gestión Curricular y Analítica Académica<br>  - Instrumentación Quirúrgica<br>  - Registro y Control<br>  - Sala de profesores y Facultad de Ciencias Administrativas y Económicas<br> - Sala Profesores y Coordinación Programa de Fisioterapia<br> - Vicerrectoría de Enseñanza<br> - Vicerrectoría de Extensión<br><br> <b> PISO 3</b><br> - Área de Oficinas de Dirección de Programas<br> - Departamento de Redes<br> - Dirección de Posgrados<br> - Dirección Relaciones Nacionales e Internacionales<br> - Gerencia Grados<br> - Rectoría<br> - Secretaria General<br> - Secretaria General Recepción<br><br> ",
+                    "pin": "pin",
+                    "x": "0.5592",
+                    "y": "0.3906",
+                    "zoom": "3"
+                },
+                {
+                    "id": "13",
+                    "title": "13. Plazoleta de flores",
+                    "link": "https://bucaramanga.udes.edu.co/comunicaciones/noticias/las-cafeterias-udes-mayor-comodidad-y-mas-servicios ",
+                    "description": "<img src='img/cafeteria-las-flores.jpg' width='250px'><br> Cafetería - Armonía de Araucarias (coníferas de la familia Araucariaceae) y un hermoso jardín con diversidad de flores multicolores.",
+                    "pin": "pin",
+                    "x": "0.5266",
+                    "y": "0.4804",
+                    "zoom": "3"
+                },
+                {
+                    "id": "14",
+                    "title": "14. Bloque Guane - 1 ",
+                    "link": "",
+                    "description": "<img src='img/guane.png' width='250px'><br> <b>PISO 1</b><br> - Análisis de Movimiento y Kinesimetria<br> - Baño Privado Decanatura Ciencias de la Salud<br> - Biología Celular<br> - Cámara de Gessell<br> - Facultad de Ciencias de la Salud<br> - Investigación e Innovación Biotecnológica Agroambiental<br> - Liibam<br> - Liibaam<br> - Tienda Udes<br><br> <b>PISO 2</b><br> - Aulas 1-201 a 1-204<br><br> <b> PISO 3</b><br> - Aulas 1-301 a 1-306<br> - Baños<br> - Depósito Útiles de Aseo<br><br> <b> PISO 4</b><br> - Aulas 1-401 a 1-408<br>  ",
+                    "pin": "pin",
+                    "x": "0.5815",
+                    "y": "0.4488",
+                    "zoom": "3"
+                },
+                {
+                    "id": "15",
+                    "title": "15. Monumento a los comuneros -  20",
+                    "link": "https://udes.edu.co/images/micrositios/museo/brochures/sala-historica-01.pdf ",
+                    "description": "<img src='img/monumento.png' width='250px'><br> <b> Escultor: escultura traída de Italia.</b><br> <b>Año en que llega a la UDES: 1997</b><br> La escultura es una alegoría a las fuentes construidas durante la antigua civilización romana. La universidad se suma con esta escultura al agradecimiento que los romanos profesan a los dioses por el agua y por la riqueza ambiental que rodea el claustro universitario.<br> ",
+                    "pin": "pin",
+                    "x": "0.5802",
+                    "y": "0.6171",
+                    "zoom": "3"
+                },
+                {
+                    "id": "16",
+                    "title": "16. Pirámide",
+                    "link": "https://udes.edu.co/images/micrositios/museo/brochures/sala-historica-01.pdf ",
+                    "description": "<img src='img/piramide.jpg' width='250px'><br> Icónico monumento del campus universitario. Estructura de metal y cristal, rodeada de naturaleza: diversidad de árboles y flores, ambientada con el canto de las aves. Iluminada en el día por el sol y en la noche con el brillo de la luna y las estrellas.",
+                    "pin": "pin",
+                    "x": "0.6168",
+                    "y": "0.6000",
+                    "zoom": "3"
+                },
+                {
+                    "id": "17",
+                    "title": "17. Bloque credito y cartera",
+                    "link": "https://udes.edu.co/credito-y-cartera ",
+                    "description": "<img src='img/credito.png' width='250px'><br> <b> PISO 1</b><br> - Atención<br><br> <b>SÓTANO</b><br> - baño<br> - Personal de trabajo<br><br> <b> Contacto</b><br> Liliana Jimena Naranjo Cepeda<br> Jefe Crédito y Cartera<br> (+57) (607) 6516500 ext. 1740<br>",
+                    "pin": "pin",
+                    "x": "0.7402",
+                    "y": "0.5727",
+                    "zoom": "3"
+                },
+                {
+                    "id": "18",
+                    "title": "18. Bloque veterinaria - 18",
+                    "link": "https://bucaramanga.udes.edu.co/extension/noticias/clinica-veterinaria-udes-ayuda-a-salvar-vidas-de-animales-con-tecnologia-de-punta ",
+                    "description": "<img src='img/veterinaria.png' width='250px'><br> - Anatomía-Osteología<br> - Baño Discapacitados<br> - Baños<br> - Bodega<br> - Consulta Veterinaria<br> - Consultorio<br> - Diagnostico Veterinario<br> - Hospitalización<br> - Lab Imagenología<br> - Lab Necropsias<br> - Anatomía<br> - Lab Procesos Veterinarios<br> - Lab Reproducción Animal<br> - Quirófano<br> - Sala de Profesores<br> - Sala de Recuperación<br>",
+                    "pin": "pin",
+                    "x": "0.1631",
+                    "y": "0.3654",
+                    "zoom": "3"
+                },
+                {
+                    "id": "19",
+                    "title": "19. Bloque Biotecnología",
+                    "link": "https://udes.edu.co/images/carreras/posgrados/maestrias/biotecnologia/maestria-biotecnologia.pdf ",
+                    "description": "<img src='img/biotecnologia-2023.jpg' width='250px'><br> <b> PISO 1 </b><br> - Área de Analítica<br> - Bioprocesos<br> - Invernadero<br> - Salón de procesos<br><br> <b> PISO 2 </b><br> - Biología Molecular y Genética<br>",
+                    "pin": "pin",
+                    "x": "0.2223",
+                    "y": "0.3333",
+                    "zoom": "3"
+                },
+                {
+                    "id": "20",
+                    "title": "20. Bloque Yariguíes",
+                    "link": "",
+                    "description": "<img src='img/yariguies.png' width='250px'><br> <b>PISO 1</b><br> - Baños<br> - Canal U Tv<br> - Depósito Útiles de Aseo<br> - Universidad Para la Paz<br> - Naciones Unidades<br><br> <b>PISO 2</b><br> - Auditorio Yariguíes<br> - Bodega de Insumos<br> - Estar Terraza Yariguíes<br> - Sala de Profesores Yariguíes<br> - Terraza de Auditorio Yariguíes<br><br> <b>PISO 3</b><br> - Sala de Estudio<br> - Hemeroteca<br><br>  <b>SÓTANO</b><br> - Ips Neurotrauma Center Udes<br> - Programa de Enfermería<br>",
+                    "pin": "pin",
+                    "x": "0.2823",
+                    "y": "0.2833",
+                    "zoom": "3"
+                },
+                {
+                    "id": "21",
+                    "title": "21. Yariguíes anexo - G",
+                    "link": "",
+                    "description": "<img src='img/yariguies-anexo.jpg' width='250px'><br> - 13 Aulas<br> - 1 Oficina<br> - 1 Balcón<br> - 1 Sala de juntas<br> - 3 Baños<br>",
+                    "pin": "pin",
+                    "x": "0.3093",
+                    "y": "0.2824",
+                    "zoom": "3"
+                },
+                {
+                    "id": "22",
+                    "title": "22. Sendero UDES",
+                    "link": "https://bucaramanga.udes.edu.co/udes-verde?highlight=WyJ1ZGVzIiwidWRlcycuIiwidWRlcyciLCJ1ZGVzJywiLCIndWRlcyIsIid1ZGVzJy4iLCJ2ZXJkZSIsInZlcmRlJyIsInZlcmRlJywiLCIndmVyZGUnIiwidmVyZGUnLiIsInVkZXMgdmVyZGUiXQ== ",
+                    "description": "<img src='img/verde.png' width='250px'><br> - Sendero ecológico, insignia de la UDES, ideal para caminatas.",
+                    "pin": "pin",
+                    "x": "0.1890",
+                    "y": "0.0936",
+                    "zoom": "3"
+                },
+                {
+                    "id": "23",
+                    "title": "23. Cancha principal",
+                    "link": "",
+                    "description": "<img src='img/cancha.jpg' width='250px'><br> Vive momentos de esparcimiento en nuestra cancha principal de césped natural.<br><br> - Canchas Volley playa<br> - Cancha de césped natural para fútbol<br>",
+                    "pin": "pin",
+                    "x": "0.4221",
+                    "y": "0.2579",
+                    "zoom": "3"
+                },
+                {
+                    "id": "24",
+                    "title": "24. Cancha Multiples ",
+                    "link": "https://udes.edu.co/bienestar-institucional/areas/area-de-deportes",
+                    "description": "<img src='img/cancha-multiple.jpg' width='250px'><br> Canchas deportivas de piso sólido para la práctica de múltiples deportes, como: <br><br> - Tenis de campo<br> - Baloncesto<br> - Volley ball<br>",
+                    "pin": "pin",
+                    "x": "0.7601",
+                    "y": "0.4882",
+                    "zoom": "3"
+                }
+            ]
+        }
+    ]
+}
